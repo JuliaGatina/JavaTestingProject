@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SecondTestingProgram {
+public class Gatina_SecondTestingProgram {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
