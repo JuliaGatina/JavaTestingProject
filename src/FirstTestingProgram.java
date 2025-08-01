@@ -18,6 +18,6 @@ public class FirstTestingProgram {
         System.out.println("a + b: " + (a + b));
         System.out.println("a - b: " + (a - b));
         System.out.println("a / b: " + (a / b));
-        System.out.println("a x b: "  + (a * b));
+        System.out.println("a x b: " + (a * b));
     }
 }
